@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | less | grap newest
+ls -t | head -10
